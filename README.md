@@ -27,3 +27,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
     * Note:- above mentioned functionality available in `ag-grid` so please check documentation carefully. before integrating any features.
 7) [AgGrid](https://www.ag-grid.com/angular-data-grid/)
+
+## Reference 
+
+[Icon Bootstrap](https://icons.getbootstrap.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
